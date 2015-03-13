@@ -1,5 +1,5 @@
-# gitskills
+ï»¿# gitskills
 
-#pythonÑ§Ï°ÈÕÖ¾
-#zixue001 python´¦ÀíunicodeÎÄ¼ş¶ÁĞ´
+#pythonå­¦ä¹ æ—¥å¿—
+#zixue001 pythonå¤„ç†unicodeæ–‡ä»¶è¯»å†™
 
